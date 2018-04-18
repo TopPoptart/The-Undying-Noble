@@ -10,8 +10,7 @@
 [Uu]nityGenerated/
 # file on crash reports
 sysinfo.txt
-# Unity3D generated meta files
-*.pidb.meta
+
 
 ###
 # VS/MD solution and project files
